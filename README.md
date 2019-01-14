@@ -15,7 +15,8 @@ This is a simple dice game where two players have the chance to roll the dice to
 - markdown
 - Html
 - css
-- This link
+
+- To view the website, click this link:https://umurangamirwa.github.io/Pig-Dice-Game/ to your browser and load it.
 
 ## Deployment
 
