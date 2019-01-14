@@ -4,7 +4,7 @@
     box-sizing: border-box;
     width: 100%;
     padding: 0px;
-    background-image: url(../assets/images/img17compressed.jpeg);
+    background-image: url(../images/logopig.jpeg);
     background-size: cover;
         color: #001f75;
 }
@@ -20,7 +20,7 @@ p,label,li{
     background-color: #001f75;
     border-radius: 10px;
     box-shadow: 0px 0px 5px #777;
-    color:red;
+    color:white;
 }
 .btn:hover{
      box-shadow: 0px 0px 10px #eee;
@@ -111,17 +111,17 @@ button#playButton {
     background-color: transparent;
     border: 2px solid #ddd;
     border-radius: 4px;
-    padding-bottom: 20px;
-    padding-top: 20px;
+    padding-bottom: 30px;
+    padding-top: 30px;
     text-align: center;
-    color:green;
+    color:rgb(137, 143, 139);
 }
 #gamingArea img{
     border: 5px solid #001f75;
     border-radius: 4px;
     box-shadow: 0px 0px 10px #001f75;
-    width: 200px;
-    height: 210px;
+    width: 400px;
+    height: 400px;
 }
 .player1NameOutput,.player2NameOutput{
     font-weight: bold;
