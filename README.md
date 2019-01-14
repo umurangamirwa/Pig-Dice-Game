@@ -7,10 +7,14 @@
 
 This is a simple dice game where two players have the chance to roll the dice to try and achieve a score of 100. Each player repeatedly rolls a die until either a 1 is rolled or the player decides to "hold".
 
-## Requirements
+## Technology used:
 
-- A running network connection to the internet
-- A web browser
+- Bootstrap
+- Javascript
+- Jquery
+- markdown
+- Html
+- css
 - This link
 
 ## Deployment
